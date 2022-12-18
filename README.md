@@ -5,7 +5,7 @@
 ## Junior Front-End Developer | React Developer
  
 
- ### Reach out to me
+### Reach out to me
 
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v8/icons/[linkedin].svg" align="left" />][linkedin]
 
