@@ -7,7 +7,7 @@
 
 ### Reach out to me
 
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v8/icons/[linkedin].svg" align="left" />][linkedin]
+[<img height="22" width="32" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" align="left" />][linkedin]
 
 <br>
 
